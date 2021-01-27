@@ -1,0 +1,14 @@
+---
+name: JoinLeaveUI
+version: 1.0
+main: xxRAYEN\JoinLeaveUI\Main
+api: 3.0.0
+author: xxRAYEN
+commands:
+ join:
+  description: Set the Join and Leave Message in an UI
+  usage: "/join"
+ leave:
+  description: Set the Join and Leave Message in an UI
+  usage: "/leave"
+...
